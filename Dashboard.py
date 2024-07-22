@@ -32,7 +32,7 @@ def mostrar_menu():
 
     unidades = {
         '1': 'semana 7',
-        '2': 'semana 8'
+        '2': 'semana 6'
     }
 
     while True:
